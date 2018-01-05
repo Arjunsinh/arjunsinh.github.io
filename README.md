@@ -1,1 +1,1 @@
-This is main page for <a href="https://sanatanadharma.arjunsinh.com/">Sanatana Dharma</a>
+This is main page for <a href="https://dharma.arjunsinh.com/">Sanatana Dharma</a>
